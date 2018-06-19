@@ -1,12 +1,12 @@
 {
-  "name": "insight-api",
+  "name": "insight-btx-api",
   "description": "A Bitcoin blockchain REST and web socket API service for Bitcore Node.",
   "version": "5.0.0-beta.44",
-  "repository": "git://github.com/bitpay/insight-api.git",
+  "repository": "git://github.com/LIMXTEC/insight-btx-api.git",
   "bugs": {
-    "url": "https://github.com/bitpay/insight-api/issues"
+    "url": "https://github.com/LIMXTEC/insight-btx-api/issues"
   },
-  "homepage": "https://github.com/bitpay/insight-api",
+  "homepage": "https://github.com/LIMXTEC/insight-btx-api",
   "license": "MIT",
   "keywords": [
     "insight",
@@ -42,8 +42,8 @@
     "request": "^2.64.0"
   },
   "devDependencies": {
-    "bitcoind-rpc": "^0.7.0",
-    "bitcore-p2p": "5.0.0-beta.2",
+    "bitcored-rpc": "^0.7.0",
+    "btxcore-p2p": "5.0.0-beta.2",
     "chai": "^3.5.0",
     "mkdirp": "^0.5.1",
     "mocha": "^2.4.5",
