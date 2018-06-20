@@ -1,6 +1,6 @@
 # Insight API
 
-A Bitcore blockchain REST and web socket API service for [BTXCore Node](https://github.com/LIMXTEC/btxcore-node).
+A Bitcore (BTX) blockchain REST and web socket API service for [BTXCore Node](https://github.com/LIMXTEC/btxcore-node).
 
 This is a backend-only service. If you're looking for the web frontend application, take a look at https://github.com/LIMXTECbitpay/insight-btx-ui.
 
@@ -365,7 +365,7 @@ POST response:
   /insight-btx-api/peer
 ```
 
-### Status of the Bitcore Network
+### Status of the Bitcore (BTX) Network
 ```
   /insight-btx-api/status?q=xxx
 ```
